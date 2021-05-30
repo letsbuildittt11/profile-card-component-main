@@ -10,8 +10,8 @@ This is my solution of the "Profile card component challenge" on Frontend Mentor
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://letsbuildittt11.github.io/profile-card-component-main/](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/profilecardcomponentmain-zH3Z4DXnq]
+- Live Site URL: [https://letsbuildittt11.github.io/profile-card-component-main/]
 
 ## My process
 
